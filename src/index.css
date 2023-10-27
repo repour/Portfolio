@@ -12,10 +12,10 @@
 }
 
 :root{
-    --color-bg: #104b43;
-    --color-bg-variant: #186F65;
-    --color-primary: #b96d5c;
-    --color-primary-variant: #70483e;
+    --color-bg: #232D3F;
+    --color-bg-variant: #10141d;
+    --color-primary: #008170;
+    --color-primary-variant: #005B41;
     --color-white: #fff;
     --color-light: #FCE09B;
 
@@ -36,7 +36,6 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-
 }
 
 .container {

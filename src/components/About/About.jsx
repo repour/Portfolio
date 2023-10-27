@@ -22,13 +22,6 @@ const About = () => {
               <h5>Experience</h5>
               <small>1+ Years Working</small>
             </article>
-
-            <article className="about__card">
-              <FaUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small></small>
-            </article>
-
             <article className="about__card">
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
@@ -36,8 +29,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ducimus distinctio molestiae deserunt voluptatem fugit rem inventore similique nostrum voluptate. Nulla, praesentium illum nesciunt fuga id dolores illo neque ratione.
-          </p>
+          Over the past 5 years, building upon my educational background, I have been working in content creation. However, my personal interest in programming compelled me to learn and advance in this field. I have been diligently trying and practicing daily to upgrade my knowledge in this field. And now, after more than one year, I can say that I'm on the right path, and my life is just now beginning.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

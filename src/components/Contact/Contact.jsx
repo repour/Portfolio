@@ -32,7 +32,7 @@ const Contact = () => {
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+989305760450</h5>
-            <a href="https://api.whatsapp.com/send?phone+989305760450" target='blank'>Send a message</a>
+            <a href="https://wa.me/+989305760450" target='blank'>Send a message</a>
           </article>
           <article className="contact__option">
             <LiaTelegramPlane className='contact__option-icon'/>
