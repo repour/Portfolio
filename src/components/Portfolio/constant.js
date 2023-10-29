@@ -22,7 +22,7 @@ export const portfolios = [
     },
     {
         "productID": 4,
-        "title": "Food Website",
+        "title": "Food Website UI",
         "image": "./img/portfolio/portfolio4.jpg",
         "github": "https://github.com/repour/Food-search-feature",
         "demo": "https://food-search-feature.vercel.app/"
@@ -36,7 +36,7 @@ export const portfolios = [
     },
     {
         "productID": 6,
-        "title": "Social Website",
+        "title": "Social Website UI",
         "image": "./img/portfolio/portfolio6.jpg",
         "github": "https://github.com/repour/Facebook-FuncAddingPost",
         "demo": "https://facebook-func-adding-post.vercel.app/"
