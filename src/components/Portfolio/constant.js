@@ -44,7 +44,7 @@ export const portfolios = [
     {
         "productID": 7,
         "title": "Todo React-Redux-JSON_SERVER",
-        "image": "./img/portfolio/portfolio7.jpg",
+        "image": "./img/portfolio/portfolio7.PNG",
         "github": "https://github.com/repour/todomicroreact",
         "demo": "https://todomicroreact.vercel.app/"
     },
