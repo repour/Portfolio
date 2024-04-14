@@ -29,7 +29,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          As a front-end developer with two years of experience, I specialize in crafting dynamic user interfaces using React.js, along with Tailwind CSS, Styled Components, and Sass. Passionate about delivering seamless experiences, I combine creativity with technical expertise to produce innovative solutions. Collaborative and adaptable, I thrive in team environments and am committed to continual learning to stay at the forefront of web development trends.</p>
+          As a front-end developer with more than two years of experience, I specialize in crafting dynamic user interfaces using React.js, along with Tailwind CSS, Styled Components, and Sass. Passionate about delivering seamless experiences, I combine creativity with technical expertise to produce innovative solutions. Collaborative and adaptable, I thrive in team environments and am committed to continual learning to stay at the forefront of web development trends.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
